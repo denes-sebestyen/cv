@@ -20,6 +20,14 @@
 - **Protocols**: HTTP, FTP, SMTP, POP3, IMAP, JSON, XML, SOAP
 - **Other**: HTML5, CSS, C, C++, NetBeans, Eclipse, Visual Studio Code
 
+## 🧭 Leadership & Project Skills
+
+- Team Leadership and Mentoring
+- Technical Project Oversight
+- Strategic Planning and Estimation
+- Cross-functional Collaboration
+- Agile Practices and Release Management
+
 ## 💼 Professional Experience
 
 ### **BlackRock – Lead Engineer (VP), Squad Lead**  
@@ -113,3 +121,8 @@
 
 - **8th Place – Countrywide IT Challenge, Embedded Systems (C)**  
   *Issued by Human Priority · Dec 2023*
+
+## 💬 What Others Say
+
+> “Dénes is an outstanding software engineer with a keen eye for detail and a collaborative mindset.”  
+> — *KOIWU BEYAN, UI Engineer, Federal Reserve Bank of Boston*

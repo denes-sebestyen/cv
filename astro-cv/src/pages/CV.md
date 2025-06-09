@@ -34,6 +34,20 @@ layout: "../layouts/BaseLayout.astro"
 
 ---
 
+<div class="no-break">
+
+## 🧭 Leadership & Project Skills
+
+- Team Leadership and Mentoring
+- Technical Project Oversight
+- Strategic Planning and Estimation
+- Cross-functional Collaboration
+- Agile Practices and Release Management
+
+</div>
+
+---
+
 ## 💼 Work Experience
 
 <div class="no-break">
@@ -166,5 +180,16 @@ layout: "../layouts/BaseLayout.astro"
 
 - **8th Place – Countrywide IT Challenge, Embedded Systems (C)**  
   *Issued by Human Priority · Dec 2023*
+
+</div>
+
+---
+
+<div class="no-break">
+
+## 💬 What Others Say
+
+> “Dénes is an outstanding software engineer with a keen eye for detail and a collaborative mindset.”  
+> — *KOIWU BEYAN, UI Engineer, Federal Reserve Bank of Boston*
 
 </div>
