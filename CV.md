@@ -108,3 +108,8 @@
 - **TED Open Translation Project** – Translator and Reviewer (EN↔HU), since 2014  
   [View profile](https://www.ted.com/profiles/2812503)
 - **Mensa HungarIQa** – Led BlackRock Hungary to 1st place in *Intelligent Company of the Year 2022* and 2nd in 2024 (large company category)
+
+## 🏅 Competitions & Awards
+
+- **8th Place – Countrywide IT Challenge, Embedded Systems (C)**  
+  *Issued by Human Priority · Dec 2023*
