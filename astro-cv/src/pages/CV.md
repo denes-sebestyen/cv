@@ -157,3 +157,14 @@ layout: "../layouts/BaseLayout.astro"
 - **Mensa HungarIQa** – Led BlackRock Hungary’s winning 2022 entry and 2nd place in 2024 for “Intelligent Company of the Year”
 
 </div>
+
+---
+
+<div class="no-break">
+
+## 🏅 Competitions & Awards
+
+- **8th Place – Countrywide IT Challenge, Embedded Systems (C)**  
+  *Issued by Human Priority · Dec 2023*
+
+</div>
