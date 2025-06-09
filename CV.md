@@ -5,9 +5,15 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/denessebestyen)  
 🌍 Budapest, Hungary
 
+---
+
 ## 🧠 Summary
 
 **Lead Frontend Engineer** with 20+ years of experience delivering scalable, performant web applications across fintech and media, along with prior experience developing embedded user interfaces for automotive navigation systems. Specialized in **Angular**, **React**, and **Java Spring**, with deep experience leading cross-functional teams, mentoring engineers, and aligning technology with business goals.
+
+---
+
+<div class="no-break">
 
 ## 🛠️ Technical Expertise
 
@@ -20,6 +26,12 @@
 - **Protocols**: HTTP, FTP, SMTP, POP3, IMAP, JSON, XML, SOAP
 - **Other**: HTML5, CSS, C, C++, NetBeans, Eclipse, Visual Studio Code
 
+</div>
+
+---
+
+<div class="no-break">
+
 ## 🧭 Leadership & Project Skills
 
 - Team Leadership and Mentoring
@@ -28,10 +40,18 @@
 - Cross-functional Collaboration
 - Agile Practices and Release Management
 
+</div>
+
+---
+
 ## 💼 Professional Experience
+ Experience
+
+<div class="no-break">
 
 ### **BlackRock – Lead Engineer (VP), Squad Lead**  
 *January 2021 – Present*
+
 - Developed and maintained TypeScript-based (Angular, React) frontend applications for ETF and fund management
   - [Product Screener (iShares)](https://www.ishares.com/us/products/etf-investments) | [BlackRock Product List](https://www.blackrock.com/uk/products/product-list)
   - [Discover by Holdings](https://www.ishares.com/us/products/investment-ideas)
@@ -44,85 +64,138 @@
 - Provided time/resource estimations and technical guidance to product owners
 - Managed and mentored a team of 2–6 engineers
 
+</div>
+
+<div class="no-break">
+
 ### **BlackRock – Associate Frontend Developer**  
 *April 2019 – December 2020*
+
 - Built Angular and React-based frontend components
 - Maintained Spring-based backend API and template logic
 - Participated in planning and implementation of new projects
 
+</div>
+
+<div class="no-break">
+
 ### **NNG LLC – Technical Coordinator & UI Developer**  
 *October 2017 – April 2019*
+
 - Scheduled development activities and software deliveries
 - Groomed UI-related features and bugs
 - Defined and reviewed UI/UX specifications
 - Acted as a bridge between business needs and implementation
 
+</div>
+
+<div class="no-break">
+
 ### **NNG LLC – User Interface Developer**  
 *June 2017 – September 2017*
+
 - Developed UI for the iGO navigation product
 - Onboarded and mentored team members
 - Used internal DSLs and LUA scripting for UI components
 
+</div>
+
+<div class="no-break">
+
 ### **Hírtőzsde Holding Zrt. – Programmer**  
 *January 2006 – May 2017*
-- Maintained company websites and internal tools
-- Built marketing databases from client and public data
-- Provided general IT support and collaborated with internal teams
+
+- Maintained web properties, created internal tools, and managed marketing databases
+
+</div>
+
+<div class="no-break">
 
 ### **T-Online – Help Desk Operator**  
 *October 2005 – January 2006*
+
 - Supported customers with technical network issues
 - Coordinated between customers and technicians
 
+</div>
+
+<div class="no-break">
+
 ### **Androvera Consulting – Web Developer**  
 *August 2004 – October 2005*
-- Created HTML, PHP, and Flash-based websites from PSD designs
+
+- Built HTML/PHP/Flash websites from PSD designs
+
+</div>
+
+---
+
+<div class="no-break">
 
 ## 🎓 Education
 
-- **Eötvös Loránd University** – Computer Science *(2020 – Ongoing)*  
+- **Eötvös Loránd University** – Computer Science *(2020 – Ongoing)*
 - **Kalmár László Technical College** – Post-secondary Programming Diploma *(2000–2001)*
+
+</div>
+
+---
+
+<div class="no-break">
 
 ## 📜 Certifications
 
-- **IT Project Management – University of Washington (edX)**  
-  [https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a](https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a)
-
-- **Portfolio Management, Governance and the PMO**  
-  [https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c)
-
-- **Leadership and Management for PM Practitioners in IT**  
-  [https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095](https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095)
-
-- **Object-Oriented Programming in Java – Microsoft (edX)**  
-  [https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b](https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b)
-
-- **DevOps for Databases – Microsoft (edX)**  
-  [https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3](https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3)
-
+- [Strategic Applications of IT Project & Program Management](https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a)
+- [Portfolio Management, Governance and the PMO](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c)
+- [Leadership and Management for PM Practitioners in IT](https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095)
+- [OOP in Java – Microsoft (edX)](https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b)
+- [DevOps for Databases – Microsoft (edX)](https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3)
 - **Leadership Training – GROW**  
-  - DISC methodology  
-  - Conflict handling & assertive communication  
-  - Leadership in dynamic environments  
-  - Performance management
+  - DISC, Conflict, Leadership Styles, Performance Management
+
+</div>
+
+---
+
+<div class="no-break">
 
 ## 🌍 Languages
 
 - **English – Advanced (C1)** (ICT certification, 2013)
 - **German – Intermediate (B1)** (Goethe-Institut, 2024)
 
+</div>
+
+---
+
+<div class="no-break">
+
 ## 🙌 Volunteer Experience
 
-- **TED Open Translation Project** – Translator and Reviewer (EN↔HU), since 2014  
-  [View profile](https://www.ted.com/profiles/2812503)
-- **Mensa HungarIQa** – Led BlackRock Hungary to 1st place in *Intelligent Company of the Year 2022* and 2nd in 2024 (large company category)
+- **TED Open Translation Project** – Translator/Reviewer (EN↔HU) since 2014  
+  [TED profile](https://www.ted.com/profiles/2812503)
+- **Mensa HungarIQa** – Led BlackRock Hungary’s winning 2022 entry and 2nd place in 2024 for “Intelligent Company of the Year”
+
+</div>
+
+---
+
+<div class="no-break">
 
 ## 🏅 Competitions & Awards
 
 - **8th Place – Countrywide IT Challenge, Embedded Systems (C)**  
   *Issued by Human Priority · Dec 2023*
 
+</div>
+
+---
+
+<div class="no-break">
+
 ## 💬 What Others Say
 
 > “Dénes is an outstanding software engineer with a keen eye for detail and a collaborative mindset.”  
 > — *KOIWU BEYAN, UI Engineer, Federal Reserve Bank of Boston*
+
+</div>
