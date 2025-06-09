@@ -17,6 +17,8 @@ layout: "../layouts/BaseLayout.astro"
 
 ---
 
+<div class="no-break">
+
 ## 🛠️ Technical Expertise
 
 - **Frontend**: JavaScript, TypeScript, Angular (with Material), React, NGRX/RXJS  
@@ -27,6 +29,8 @@ layout: "../layouts/BaseLayout.astro"
 - **Systems**: Linux, Windows  
 - **Protocols**: HTTP, FTP, SMTP, POP3, IMAP, JSON, XML, SOAP  
 - **Other**: HTML5, CSS, C, C++, NetBeans, Eclipse, Visual Studio Code
+
+</div>
 
 ---
 
@@ -104,6 +108,8 @@ layout: "../layouts/BaseLayout.astro"
 
 ---
 
+<div class="no-break">
+
 ## 🎓 Education
 
 - **Eötvös Loránd University** – Computer Science *(2020 – Ongoing)*
@@ -111,7 +117,11 @@ layout: "../layouts/BaseLayout.astro"
   - General High School Diploma (1996–2000)  
   - Post-secondary Programming Diploma (2000–2001)
 
+</div>
+
 ---
+
+<div class="no-break">
 
 ## 📜 Certifications
 
@@ -123,17 +133,27 @@ layout: "../layouts/BaseLayout.astro"
 - **Leadership Training – GROW**  
   - DISC, Conflict, Leadership Styles, Performance Management
 
+</div>
+
 ---
+
+<div class="no-break">
 
 ## 🌍 Languages
 
 - **English – Advanced (C1)**  
 - **German – Intermediate (B1)** (Goethe-Institut, 2024)
 
+</div>
+
 ---
+
+<div class="no-break">
 
 ## 🙌 Volunteer Experience
 
 - **TED Open Translation Project** – Translator/Reviewer (EN↔HU) since 2014  
   [TED profile](https://www.ted.com/profiles/2812503)
 - **Mensa HungarIQa** – Led BlackRock Hungary’s winning 2022 entry and 2nd place in 2024 for “Intelligent Company of the Year”
+
+</div>
