@@ -1,5 +1,7 @@
 ---
 const { title } = Astro.props.frontmatter;
+const printCSS = `${import.meta.env.BASE_URL}/print.css`;
+const customCSS = `${import.meta.env.BASE_URL}/custom-cv-style-final.css`;
 ---
 
 <html lang="en">
@@ -16,8 +18,8 @@ const { title } = Astro.props.frontmatter;
         line-height: 1.6;
       }
     </style>
-	<link rel="stylesheet" href="/print.css" media="print" />
-	<link rel="stylesheet" href="/custom-cv-style-final.css" />
+	<link rel="stylesheet" href={printCSS} media="print" />
+	<link rel="stylesheet" href={customCSS} />
   </head>
   <body>
     <slot />
