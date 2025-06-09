@@ -1,7 +1,7 @@
 # Dénes József Sebestyén
 
 📧 denes.j.sebestyen@gmail.com  
-📞 +36 70 278 4955  
+📞 +36 (70) 278-4955  
 🔗 [LinkedIn](https://www.linkedin.com/in/denessebestyen)  
 🌍 Budapest, Hungary
 
@@ -9,7 +9,7 @@
 
 ## 🧠 Summary
 
-**Lead Frontend Engineer** with 20+ years of experience delivering scalable, performant web applications across fintech and media, along with prior experience developing embedded user interfaces for automotive navigation systems. Specialized in **Angular**, **React**, and **Java Spring**, with deep experience leading cross-functional teams, mentoring engineers, and aligning technology with business goals.
+**Lead Frontend Engineer** with 20+ years of experience delivering scalable, performant web applications across fintech and media, along with prior experience developing embedded user interfaces for automotive navigation systems. Expert in **Angular**, **React**, **TypeScript** and **Java Spring**, with deep experience leading cross-functional teams, mentoring engineers, and aligning technology with business goals. Passionate about clean architecture, developer experience, and team leadership.
 
 ---
 
@@ -44,10 +44,9 @@
 
 ---
 
-## 💼 Professional Experience
- Experience
-
 <div class="no-break">
+
+## 💼 Professional Experience
 
 ### **BlackRock – Lead Engineer (VP), Squad Lead**  
 *January 2021 – Present*
@@ -145,11 +144,12 @@
 
 ## 📜 Certifications
 
-- [Strategic Applications of IT Project & Program Management](https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a)
-- [Portfolio Management, Governance and the PMO](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c)
-- [Leadership and Management for PM Practitioners in IT](https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095)
-- [OOP in Java – Microsoft (edX)](https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b)
-- [DevOps for Databases – Microsoft (edX)](https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3)
+- **IT Project Management** – University of Washington (edX)
+  - [PM-IT-001x](https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a) = Strategic Applications of IT Project & Program Management
+  - [PM-IT-002x](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c) - Portfolio Management, Governance and the PMO
+  - [PM-IT-003x](https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095) - Leadership and Management for PM Practitioners in IT
+- **[Object Oriernted Programming in Java](https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b)** – Microsoft (edX)
+- **[DevOps for Databases](https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3)** – Microsoft (edX)
 - **Leadership Training – GROW**  
   - DISC, Conflict, Leadership Styles, Performance Management
 
