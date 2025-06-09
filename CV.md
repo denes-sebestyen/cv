@@ -1,199 +1,110 @@
-Resume
-======
+# Dénes József Sebestyén
 
-Name
-: Dénes József Sebestyén  
-Phone
-: +36 (70) 278-4955  
-E-mail
-: <denes.j.sebestyen@gmail.com>  
-LinkedIn
-: <https://www.linkedin.com/in/denessebestyen/>
+📧 denes.j.sebestyen@gmail.com  
+📞 +36 70 278 4955  
+🔗 [LinkedIn](https://www.linkedin.com/in/denessebestyen)  
+🌍 Budapest, Hungary
 
-Profile
--------
+## 🧠 Summary
 
-I am a Lead Front End Developer with 20+ years of work experience in developing a wide
-range of web applications and websites in diverse fields including various fund marketing
-tools, navigation software, web crawlers, and websites for online newspapers among
-others. I am looking for a position with a fair share of interesting challenges, and a high
-degree of flexibility and autonomy.
+**Lead Frontend Engineer** with 20+ years of experience delivering scalable, performant web applications across fintech and media, along with prior experience developing embedded user interfaces for automotive navigation systems. Specialized in **Angular**, **React**, and **Java Spring**, with deep experience leading cross-functional teams, mentoring engineers, and aligning technology with business goals.
 
-Technical expertise
--------------------
+## 🛠️ Technical Expertise
 
-- Web development: PHP, MySQL, HTML5, CSS, JavaScript, TypeScript, Angular
-  (also with Material), React, NGRX/RXJS
-- Software development: C, C++, Java
-- Scripting languages: Perl, Bash, Python
-- Database administration: MySQL, Oracle, MsAccess
-- System management: Linux, Windows
-- Network management, protocols: TCP/IP, UDP, Ethernet
-- Communication protocols: HTTP, FTP, SMTP, POP3, IMAP, XML, JSON, SOAP, etc.
-- Version control systems: SVN, GIT
-- IDEs and Editors: NetBeans, Eclipse, Visual Studio Code
+- **Frontend**: JavaScript, TypeScript, Angular (with Material), React, NGRX/RXJS
+- **Backend**: Java (Spring Framework, FTL), PHP
+- **Scripting**: Bash, Perl, Python
+- **Databases**: MySQL, Oracle, MS Access
+- **DevOps & Tools**: Git, SVN, Azure DevOps, Jenkins, JIRA
+- **Systems**: Linux, Windows
+- **Protocols**: HTTP, FTP, SMTP, POP3, IMAP, JSON, XML, SOAP
+- **Other**: HTML5, CSS, C, C++, NetBeans, Eclipse, Visual Studio Code
 
-Work experience
----------------
+## 💼 Professional Experience
 
-### Lead Engineer (VP), Squad Lead at BlackRock
+### **BlackRock – Lead Engineer (VP), Squad Lead**  
+*January 2021 – Present*
+- Developed and maintained TypeScript-based (Angular, React) frontend applications for ETF and fund management
+  - [Product Screener (iShares)](https://www.ishares.com/us/products/etf-investments) | [BlackRock Product List](https://www.blackrock.com/uk/products/product-list)
+  - [Discover by Holdings](https://www.ishares.com/us/products/investment-ideas)
+  - [Find Correlated Funds](https://www.blackrock.com/authplatform/user/signin)
+  - [iBonds Ladders](https://www.ishares.com/us/resources/tools/ibonds)
+  - [Explore by Goals](https://www.ishares.com/us/products/investment-goals#/categories)
+  - [iShares Core Builder](https://www.ishares.com/us/resources/tools/core-builder#/)
+- Maintained Java Spring-based backend APIs and FTL-based responses
+- Led architecture discussions, planned features and release cycles
+- Provided time/resource estimations and technical guidance to product owners
+- Managed and mentored a team of 2–6 engineers
 
-January 2021 – Present (3+ yrs)
+### **BlackRock – Associate Frontend Developer**  
+*April 2019 – December 2020*
+- Built Angular and React-based frontend components
+- Maintained Spring-based backend API and template logic
+- Participated in planning and implementation of new projects
 
-Responsibilities include:
+### **NNG LLC – Technical Coordinator & UI Developer**  
+*October 2017 – April 2019*
+- Scheduled development activities and software deliveries
+- Groomed UI-related features and bugs
+- Defined and reviewed UI/UX specifications
+- Acted as a bridge between business needs and implementation
 
-- developing and maintaining TypeScript-based (Angular, React) frontend
-  applications for ETFs and funds management. A short list of examples:
-  - Product Screener:  
-    <https://www.ishares.com/us/products/etf-investments>  
-    <https://www.blackrock.com/uk/products/product-list>  
-    The screener is completely rewritten by our team for the iShares, and is being adapted to blackrock.com
-  - Discover by holdings: <https://www.ishares.com/us/products/investment-ideas>
-  - Find correlated funds: <https://www.blackrock.com/authplatform/user/signin>
-  - iBonds ladders: <https://www.ishares.com/us/resources/tools/ibonds>
-  - Explore by goals: <https://www.ishares.com/us/products/investment-goals#/categories>
-  - iShares Core builder: <https://www.ishares.com/us/resources/tools/core-builder#/>
-- maintaining Java Spring Framework-based backend (JSON API and FTL-based response).
-- taking leading part in technical, architectural planning of new applications
-- supporting product owner decisions as a technical expert with time, resource, and value estimation
-- planning and executing software release cycles
-- people managerial tasks (leadership of 2–6 reports)
+### **NNG LLC – User Interface Developer**  
+*June 2017 – September 2017*
+- Developed UI for the iGO navigation product
+- Onboarded and mentored team members
+- Used internal DSLs and LUA scripting for UI components
 
-Key technologies, tools:
+### **Hírtőzsde Holding Zrt. – Programmer**  
+*January 2006 – May 2017*
+- Maintained company websites and internal tools
+- Built marketing databases from client and public data
+- Provided general IT support and collaborated with internal teams
 
-- JavaScript/TypeScript (Angular, Angular-material, NGRX/RXJS, React, vanilla JS)
-- Java (Spring Framework, FTL)
-- JSON, REST
-- JIRA, Jenkins, Azure DevOps
+### **T-Online – Help Desk Operator**  
+*October 2005 – January 2006*
+- Supported customers with technical network issues
+- Coordinated between customers and technicians
 
-### Associate Frontend Developer at BlackRock
+### **Androvera Consulting – Web Developer**  
+*August 2004 – October 2005*
+- Created HTML, PHP, and Flash-based websites from PSD designs
 
-April 2019 – December 2020
+## 🎓 Education
 
-Responsibilities included:
+- **Eötvös Loránd University** – Computer Science *(2020 – Ongoing)*  
+- **Kalmár László Technical College** – Post-secondary Programming Diploma *(2000–2001)*
 
-- developed and maintained TypeScript-based (Angular, React) frontend applications
-- maintained Java Spring-based backend (JSON API and FTL-based response)
-- participated in the planning of new applications
+## 📜 Certifications
 
-Key technologies, tools:
+- **IT Project Management – University of Washington (edX)**  
+  [https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a](https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a)
 
-- JavaScript/TypeScript (Angular, Angular-material, NGRX/RXJS, React, vanilla JS)
-- Java (Spring, FTL)
-- JSON
-- JIRA, Jenkins, Azure DevOps
+- **Portfolio Management, Governance and the PMO**  
+  [https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c)
 
-### Technical Coordinator and User Interface Developer at NNG LLC
+- **Leadership and Management for PM Practitioners in IT**  
+  [https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095](https://courses.edx.org/certificates/f0d8006a99104f0ebb04de28042ee095)
 
-October 2017 – April 2019
+- **Object-Oriented Programming in Java – Microsoft (edX)**  
+  [https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b](https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b)
 
-Responsibilities included:
+- **DevOps for Databases – Microsoft (edX)**  
+  [https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3](https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3)
 
-- worked with Development Leads and other internal departments to schedule
-  software development activities and deliveries
-- attended daily stand-ups and other status meetings
-- assisted with JIRA administration
-- groomed user interface-related feature and bug backlog tickets and ensured
-  compliance with the company’s development process and prioritization policies
-- took notes, assembled comments and changelogs
-- definition, creation, production and review of user interface and usability
-  requirements
-- interpreted business requirements into effective user interface specifications
-
-### User Interface Developer at NNG LLC
-
-June 2017 – September 2017
-
-Responsibilities included:
-
-- developed and maintained the project-specific user interface of the iGO product
-- onboarded newcomers and helped them familiarize themselves with the system, mentoring
-- gave technical advices to the team members
-
-Key technologies, tools
-
-- custom language for user interface development and LUA for scripting
-- Mercurial and SVN
-- JIRA and Confluence
-
-### Programmer at Hírtőzsde Holding Zrt.
-
-January 2006 – May 2017
-
-Responsibilities included:
-
-- developed and maintained the websites of the company
-- created databases for direct marketing of the company using different sources, from
-  the company’s client list to public data
-- gave advice and provided solutions for various IT-related problems
-- worked closely with other developers and professionals
-
-### Help-desk Operator at T-Online
-
-October 2005 – January 2006
-
-Responsibilities included:
-
-- solved technical problems for customers regarding the network and other ad-hoc
-  technical issues
-- ensured cooperation between the customers and the technicians if required
-
-### Web Developer at Androvera Consulting
-
-August 2004 – October 2005
-
-Responsibilities included:
-
-- created HTML (using Photoshop and Dreamweaver) and PHP-based websites (with
-  some Flash parts) by using the prepared design I received in PSD format
-
-Certificates
-
-------------
-
-- IT Project Management program at edX by University of Washington
-  Courses in the program:
-  - [PM-IT-001x: Strategic Applications of IT Project & Program Management](https://courses.edx.org/certificates/ea175d3024604ae98ae928b81b52de6a)
-  - [PM-IT-002x: Portfolio Management, Governance and the PMO](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c)
-  - [PM-IT-003x: Leadership and Management for PM Practitioners in IT](https://courses.edx.org/certificates/d4f255dcaf0b40798ec6e5ae048eba8c)
-- [Object Oriented Programming in Java at edX by Microsoft](https://courses.edx.org/certificates/04c27cff1aa04a04815aa1c82beeeb5b)
-- A course about OOP in Java.
-- [DevOps for Databases course at edX by Microsoft](https://courses.edx.org/certificates/4139fa1d02f84d6f8ddfb2b98874d6b3)
-- Database management from a DevOps perspective.
-- **Leadership Training by GROW**  
-  4 modules of training for leaders
-  - Leadership self-knowledge - DISC methodology
-  - Handling conflicts - Assertive communication as a leader
-  - Leading in a variable environment - The leadership as a professional: Leadership
-    roles and styles
+- **Leadership Training – GROW**  
+  - DISC methodology  
+  - Conflict handling & assertive communication  
+  - Leadership in dynamic environments  
   - Performance management
 
-Education
----------
+## 🌍 Languages
 
-- **Eötvös Loránd Tudományegyetem - Computer Science** (2020-Ongoing)
-- **Kalmár László Computer Technology Technical College** (1996 – 2001)
-  - general high school diploma (1996-2000)
-  - post secondary computer programming diploma (2000-2001)
+- **English – Advanced (C1)** (ICT certification, 2013)
+- **German – Intermediate (B1)** (Goethe-Institut, 2024)
 
-Language knowledge
-------------------
+## 🙌 Volunteer Experience
 
-**English – Advanced (C1)**  
-English of information and communication technology (ICT) certification, C1, 2013
-
-**German - Intermediate (B1)**  
-Goethe Institut, 2024
-
-Volunteer Experience
---------------------
-
-**Translator and reviewer (English-Hungarian) at TED Open Translation Project**  
-May 2014 – Present  
-Translating and reviewing topics concerning: technical innovations, educational and social
-studies  
-My TED profile is available at: <https://www.ted.com/profiles/2812503>
-
-As a **Mensa HungarIQa member**, I spearheaded the participation of **Blackrock Hungary** in
-the ‘**Intelligent Company of the Year**’ competition which BlackRock won in 2022, and secured
-2<sup>nd</sup> place in 2024 in the large company category.
+- **TED Open Translation Project** – Translator and Reviewer (EN↔HU), since 2014  
+  [View profile](https://www.ted.com/profiles/2812503)
+- **Mensa HungarIQa** – Led BlackRock Hungary to 1st place in *Intelligent Company of the Year 2022* and 2nd in 2024 (large company category)
