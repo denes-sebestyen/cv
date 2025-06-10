@@ -6,7 +6,7 @@ layout: "../layouts/BaseLayout.astro"
 # Dénes József Sebestyén
 
 📧 denes.j.sebestyen@gmail.com  
-📞 [+36 (70) 278-4955](tel:+36702784955)
+📞 [+36 (70) 278-4955](tel:+36702784955)  
 🔗 [LinkedIn](https://www.linkedin.com/in/denessebestyen)  
 🌍 Budapest, Hungary
 
