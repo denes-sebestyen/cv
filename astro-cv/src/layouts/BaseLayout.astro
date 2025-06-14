@@ -18,10 +18,12 @@ const customCSS = `${import.meta.env.BASE_URL}/custom-cv-style-final.css`;
         line-height: 1.6;
       }
     </style>
-	<link rel="stylesheet" href={printCSS} media="print" />
-	<link rel="stylesheet" href={customCSS} />
+    <link rel="stylesheet" href={printCSS} media="print" />
+    <link rel="stylesheet" href={customCSS} />
   </head>
   <body>
-    <slot />
+    <main class={`cv ${flavor}`}>
+      <slot />
+    </main>
   </body>
 </html>
